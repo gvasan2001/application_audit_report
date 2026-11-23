@@ -1,0 +1,22 @@
+camer hack
+
+prespictive: the someone knwo the pythical address try to hack house camera
+
+phase 1 : recon
+camera brand : Hikvision
+wifi-name: Ramjana aktar
+email address:
+mac address: 
+route login page : 192.168.1.1
+router brand : netlink
+router firwall: Realtek-based firmware (RTK_GW.bbrouter) 
+open prots
+ PORT      STATE    SERVICE   VERSION
+23/tcp    filtered telnet
+53/tcp    open     domain    dnsmasq 2.45
+80/tcp    open     http
+443/tcp   open     ssl/https
+52881/tcp open     upnp      MiniUPnP
+
+
+
